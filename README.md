@@ -4,6 +4,9 @@ You have a lot of images from a test campaign and you want to find bugs?
 AI Image Classifier allows to classify images into a given number of clusters.  
 Thus organizing similar images together, you'll be able to find issues more quickly.  
 
+# Demo
+<https://youtu.be/CAeTMvJQx3M>
+
 # Tutorial
 
 ## Prerequisites
