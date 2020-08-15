@@ -1,7 +1,7 @@
 #Unsupervised learning using ResNet50 and Kmeans
 #https://towardsdatascience.com/image-clustering-using-transfer-learning-df5862779571
 #UI added
-#OTIS 14 Feb 2020 - Quentin BEZAULT
+#14 Feb 2020 - Quentin BEZAULT
 
 #For UI
 from PyQt5.QtCore import QDir, Qt, pyqtSlot
